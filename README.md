@@ -1,16 +1,34 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**thelimacosta/thelimacosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/><br/>
 
-Here are some ideas to get you started:
+# Matheus Costa
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+thelimacosta
+
+</div>
+
+<br/>
+
+---
+
+Estudante de Ciência da Computação na CESAR School.
+
+---
+
+### stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,cpp,vscode" />
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/matheus-costa-1524533b3)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-7B6FFF?style=for-the-badge&logo=vercel&logoColor=white)](https://seusite.com)
+
+</div>
