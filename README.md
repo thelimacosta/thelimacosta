@@ -2,9 +2,9 @@
 
 <br/><br/>
 
-# Matheus Costa
+# thelimacosta
 
-thelimacosta
+
 
 </div>
 
@@ -12,7 +12,7 @@ thelimacosta
 
 ---
 
-Estudante de Ciência da Computação na CESAR School.
+A tecnologia transforma ideias em realidade. Atualmente construindo uma base sólida em Hardware, Design de Circuitos e Sistemas Embarcados. Valorizo e busco constantemente aprimorar minhas Soft Skills e Trabalho em Equipe.
 
 ---
 
