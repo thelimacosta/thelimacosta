@@ -3,7 +3,7 @@
 <br/><br/>
 
 # Olá👋
-seja bem vindo(a) ao meu Github
+seja bem-vindo(a) ao meu Github !!
 
 
 
