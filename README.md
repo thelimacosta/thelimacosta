@@ -10,7 +10,7 @@ Seja bem-vindo(a) ao meu Github !!
 
 ---
 
--- A tecnologia transforma ideias em realidade. Atualmente construindo uma base sólida em Hardware, Design de Circuitos e Sistemas Embarcados. Valorizo e busco constantemente aprimorar minhas Soft Skills e Trabalho em Equipe --
+-- A tecnologia transforma ideias em realidade. --
 
 ---
 
