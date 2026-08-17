@@ -1,8 +1,8 @@
 <div align="center">
 <br/><br/>
 
-# Olá👋🏽
-Seja bem-vindo(a) ao meu Github !!
+# Olá😁
+Seja bem-vindo(a) ao meu Github!!
 
 </div>
 
@@ -10,14 +10,14 @@ Seja bem-vindo(a) ao meu Github !!
 
 ---
 
--- A tecnologia transforma ideias em realidade. --
+A tecnologia transforma ideias em realidade 💭
 
 ---
 
 ### stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,cpp,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,js,cpp,vscode,c,html,css,ai" />
 </div>
 
 <br/>
