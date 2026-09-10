@@ -42,14 +42,14 @@ Host: CESAR School — Recife, PE
 Kernel: Ciência da Computação
 Shell: python3 / node
 
-Languages.Code: Python, JavaScript, C++
-Languages.Hardware: Arduino / C
+Languages.Code: Python, JavaScript, C
+Languages.Hardware: Arduino / C++
 Languages.Human: Português (nativo)
 
 Tools: VS Code, Git, GitHub Actions,
        Semgrep, Trivy, Docker, Figma, Jira
 
-Projects: 5 (3 solo, 1 em equipe, 1 estudo)
+Projects: 5 
 
 Contact.Email: mplc@cesar.school
 Contact.LinkedIn: thelimacosta
