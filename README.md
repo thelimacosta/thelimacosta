@@ -68,7 +68,7 @@ Contact.GitHub: thelimacosta
 **SecOps-LAB** — pipeline DevSecOps no GitHub Actions: SAST (Semgrep), scan de imagem (Trivy), DAST (OWASP ZAP) e publicação automática no GHCR, protegendo uma API Flask.
 → [`github.com/thelimacosta/SecOps-LAB`](https://github.com/thelimacosta/SecOps-LAB)
 
-**projeto.tasks** — sistema de gerenciamento de tarefas construído em equipe (Spring Boot + Next.js + PostgreSQL).
+**projeto.tasks** — sistema de gerenciamento de tarefas construído em equipe com aplicação DJANGO (Spring Boot + Next.js + PostgreSQL).
 → [`github.com/jetd-ernesto/projeto.tasks`](https://github.com/jetd-ernesto/projeto.tasks)
 
 **Fuga Vulcânica** — board game físico com Arduino Mega, tema dinossauros: 4 jogadores, 30 casas com LEDs, 4 telas LCD via I2C e habilidades especiais por personagem.
