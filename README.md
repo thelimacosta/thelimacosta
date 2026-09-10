@@ -44,7 +44,7 @@ Shell: python3 / node
 
 Languages.Code: Python, JavaScript, C
 Languages.Hardware: Arduino / C++
-Languages.Human: Português (nativo)
+Languages.Human: Português (nativo) / Inglês (EN)
 
 Tools: VS Code, Git, GitHub Actions,
        Semgrep, Trivy, Docker, Figma, Jira
