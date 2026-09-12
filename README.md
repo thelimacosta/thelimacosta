@@ -44,6 +44,7 @@ Shell: python3 / node
 
 Projects: 5
 </pre>
+<img src="dance.gif" width="200">
 </td>
 </tr>
 </table>
