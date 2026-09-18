@@ -103,7 +103,7 @@ Projects: 5
 **Django** — repositório de estudo aplicando Django na prática.
 → [`github.com/thelimacosta/DJANGO`](https://github.com/thelimacosta/DJANGO)
 
-**ESG-SIMULATOR** - sistema interativo para uma PME do setor têxtil.
+**Esg-Simulator** - sistema interativo para uma PME do setor têxtil.
 → [`github.com/thelimacosta/ESG-Simulator`](https://github.com/thelimacosta/ESG-Simulator)
 
 ---
