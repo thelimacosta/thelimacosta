@@ -37,7 +37,7 @@
 <pre>
 thelimacosta@github
 --------------------
-OS: DevSecOps (entusiasta)
+OS: DevSecOps 
 Host: CESAR School — Recife, PE
 Kernel: Ciência da Computação
 Shell: python3 / node
