@@ -42,7 +42,7 @@ Host: CESAR School — Recife, PE
 Kernel: Ciência da Computação
 Shell: python3 / node
 
-Projects: 6
+Projects: 7
 </pre>
 <img src="dance.gif" width="200">
 </td>
@@ -105,6 +105,9 @@ Projects: 6
 
 **Esg-Simulator** - sistema interativo para uma PME do setor têxtil. Encontra-se (Em Breve) integrado no sistema do site de Projeto 2.
 → [`github.com/thelimacosta/ESG-Simulator`](https://github.com/thelimacosta/ESG-Simulator)
+
+**Pizzasign** - jogo de cartas PvE feito em linguagem C (Em Breve).
+→ [`github.com/thelimacosta/pizzasign`](https://github.com/thelimacosta/pizzasign)
 
 ---
 
