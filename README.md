@@ -106,8 +106,8 @@ Projects: 7
 **Esg-Simulator** - sistema interativo para uma PME do setor têxtil. Encontra-se (Em Breve) integrado no sistema do site de Projeto 2.
 → [`github.com/thelimacosta/ESG-Simulator`](https://github.com/thelimacosta/ESG-Simulator)
 
-**Pizzasign** - jogo de cartas PvE feito em linguagem C (Em Breve).
-→ [`github.com/thelimacosta/pizzasign`](https://github.com/thelimacosta/pizzasign)
+**Pizzalign** - jogo de cartas PvE feito em linguagem C (Em Breve).
+→ [`github.com/thelimacosta/pizzalign`](https://github.com/thelimacosta/pizzalign)
 
 ---
 
