@@ -96,7 +96,7 @@ Projects: 7
 → [`github.com/LopesLuna/Projeto-2`](https://github.com/LopesLuna/Projeto-2)
 
 **Fuga Vulcânica** — board game físico com Arduino Mega, tema dinossauros: 4 jogadores, 30 casas com LEDs, 4 telas LCD via I2C e habilidades especiais por personagem.
-→ [`github.com/thelimacosta/Fuga-vulc-nica`](https://github.com/thelimacosta/Fuga-vulc-nica) · [Artigo Científico](https://www.linkedin.com/feed/update/urn:li:activity:7487575368267120640/)
+→ [`https://github.com/annabetelisboa/Fuga-vulcanica`](https://github.com/annabetelisboa/Fuga-vulcanica) · [Artigo Científico](https://www.linkedin.com/feed/update/urn:li:activity:7487575368267120640/)
 
 **FitPlanner** — sistema de cadastro e planejamento de treinos em Python: planos de treino, cadastro de exercícios, controle de metas e um agente que calcula o tempo até bater a meta com base no cardio escolhido.
 → [`github.com/thelimacosta/PROJETO-FP`](https://github.com/thelimacosta/PROJETO-FP)
