@@ -105,7 +105,7 @@ Projects: 7
 → [`github.com/thelimacosta/DJANGO`](https://github.com/thelimacosta/DJANGO)
 
 **Esg-Simulator** - sistema interativo para uma PME do setor têxtil. Encontra-se (Em Breve) integrado no sistema do site de Projeto 2.
-→ [`github.com/thelimacosta/ESG-Simulator`](https://github.com/thelimacosta/ESG-Simulator)
+→ [`github.com/CorreiazinhoW/ESG-Simulator`](https://github.com/CorreiazinhoW/ESG-Simulator)
 
 **Pizzalign** - jogo de cartas PvE / PvP feito em linguagem C (Em Breve).
 → [`github.com/thelimacosta/pizzalign`](https://github.com/thelimacosta/pizzalign)
