@@ -110,8 +110,8 @@ Projects: 8
 **Pizzalign** - jogo de cartas PvE / PvP feito em linguagem C (Em Breve).
 → [`github.com/thelimacosta/pizzalign`](https://github.com/thelimacosta/pizzalign)
 
-**Detetive-lógico** - jogo de detetive com lógica implementada, em estilo de fliperama, feito puramente em html.
-→ [`github.com/thelimacosta/Detetive-Logico`](https://github.com/thelimacosta/Detetive-Logico)
+**DEDUTIVO** - jogo de detetive com lógica implementada, em estilo de fliperama, feito puramente em html.
+→ [`github.com/thelimacosta/DEDUTIVO`](https://github.com/thelimacosta/DEDUTIVO)
 
 ---
 
