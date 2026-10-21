@@ -42,7 +42,7 @@ Host: CESAR School — Recife, PE
 Kernel: Ciência da Computação
 Shell: python3 / node
 
-Projects: 7
+Projects: 8
 </pre>
 <img src="dance.gif" width="200">
 </td>
