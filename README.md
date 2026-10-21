@@ -101,7 +101,7 @@ Projects: 8
 **FitPlanner** — sistema de cadastro e planejamento de treinos em Python: planos de treino, cadastro de exercícios, controle de metas e um agente que calcula o tempo até bater a meta com base no cardio escolhido.
 → [`github.com/thelimacosta/PROJETO-FP`](https://github.com/thelimacosta/PROJETO-FP)
 
-**Django** — repositório de estudo aplicando Django na prática.
+**DJANGO** — repositório de estudo aplicando Django na prática.
 → [`github.com/thelimacosta/DJANGO`](https://github.com/thelimacosta/DJANGO)
 
 **Esg-Simulator** - sistema interativo para uma PME do setor têxtil. Encontra-se (Em Breve) integrado no sistema do site de Projeto 2.
