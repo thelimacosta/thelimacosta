@@ -42,7 +42,7 @@ Host: CESAR School — Recife, PE
 Kernel: Ciência da Computação
 Shell: python3 / node
 
-Projects: 8
+Projects: 9
 </pre>
 <img src="dance.gif" width="200">
 </td>
@@ -104,7 +104,7 @@ Projects: 8
 **DJANGO** — repositório de estudo aplicando Django na prática.
 → [`github.com/thelimacosta/DJANGO`](https://github.com/thelimacosta/DJANGO)
 
-**Esg-Simulator** - sistema interativo para uma PME do setor têxtil. Encontra-se (Em Breve) integrado no sistema do site de Projeto 2.
+**Esg-Simulator** - sistema interativo para uma PME do setor têxtil. Encontra-se integrado no sistema do site Stitch.
 → [`github.com/CorreiazinhoW/ESG-Simulator`](https://github.com/CorreiazinhoW/ESG-Simulator)
 
 **Pizzalign** - jogo de cartas PvE / PvP com estética de pizzaria italiana. feito em HTML e linguagem C.
@@ -112,6 +112,11 @@ Projects: 8
 
 **DEDUTIVO** - jogo de detetive com lógica implementada, em estilo de fliperama, feito puramente em html.
 → [`github.com/thelimacosta/DEDUTIVO`](https://github.com/thelimacosta/DEDUTIVO)
+
+**ARCHV** - Plataforma de coleção estética integrada com lootbox e open-packs (Em breve).
+→ [`github.com/digão-1234/ARCHV`](https://github.com/digão-1234/ARCHV)
+
+
 
 ---
 
