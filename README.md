@@ -107,7 +107,7 @@ Projects: 9
 **Esg-Simulator** - sistema interativo para uma PME do setor têxtil. Encontra-se integrado no sistema do site Stitch.
 → [`github.com/CorreiazinhoW/ESG-Simulator`](https://github.com/CorreiazinhoW/ESG-Simulator)
 
-**Pizzalign** - jogo de cartas PvE / PvP com estética de pizzaria italiana. feito em HTML e linguagem C.
+**Pizzalign** - jogo de cartas (Falling Block Puzzle Game), estilo PvP, com estética de pizzaria italiana, constuído linguagem C.
 → [`github.com/thelimacosta/pizzalign`](https://github.com/thelimacosta/pizzalign)
 
 **DEDUTIVO** - jogo de detetive com lógica implementada, em estilo de fliperama, feito puramente em html.
