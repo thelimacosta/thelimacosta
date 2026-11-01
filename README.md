@@ -114,7 +114,7 @@ Projects: 9
 → [`github.com/thelimacosta/DEDUTIVO`](https://github.com/thelimacosta/DEDUTIVO)
 
 **ARCHV** - Plataforma de coleção estética integrada com lootbox e open-packs (Em breve).
-→ [`github.com/digão-1234/ARCHV`](https://github.com/digão-1234/ARCHV)
+→ [`github.com/Digao-1234/ARCHV`](https://github.com/Digao-1234/ARCHV)
 
 
 
