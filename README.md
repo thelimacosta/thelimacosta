@@ -92,7 +92,7 @@ Projects: 9
 **SecOps-LAB** — pipeline DevSecOps no GitHub Actions: SAST (Semgrep), scan de imagem (Trivy), DAST (OWASP ZAP) e publicação automática no GHCR, protegendo uma API Flask.
 → [`github.com/thelimacosta/SecOps-LAB`](https://github.com/thelimacosta/SecOps-LAB)
 
-**Stitch** — Página web para PMEs que desejam implementar ESG em seu negócio. Feito com Django.
+**Stitch** — Página web para PMEs do setor têxtil que desejam implementar ESG em seu negócio. Feito com Django.
 → [`github.com/LopesLuna/Projeto-2`](https://github.com/LopesLuna/Projeto-2)
 
 **Fuga Vulcânica** — board game físico com Arduino Mega, tema dinossauros: 4 jogadores, 30 casas com LEDs, 4 telas LCD via I2C e habilidades especiais por personagem.
