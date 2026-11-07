@@ -35,12 +35,11 @@
 </td>
 <td valign="top">
 <pre>
-thelimacosta@github
+thelimacosta@github-enviroment
 --------------------
-OS: DevSecOps 
-Host: CESAR School — Recife, PE
-Kernel: Ciência da Computação
-Shell: python3 / node
+Host: Recife, PE
+Kernel: Ciência da Computação @ CESAR School
+Shell: python3, C / node
 
 Projects: 9
 </pre>
@@ -49,7 +48,7 @@ Projects: 9
 </tr>
 </table>
 
-### Linguagens
+### Syntax & Runtimes
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -60,7 +59,7 @@ Projects: 9
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Ferramentas
+### Toolchain & Ecosystem
 
 ![CMD](https://img.shields.io/badge/CMD-000000?style=for-the-badge&logo=windows&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -72,13 +71,16 @@ Projects: 9
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%230052CC.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
-### Segurança
+### SecOps & Hardening
 
 ![Semgrep](https://img.shields.io/badge/Semgrep-1B1B1B?style=for-the-badge&logo=semgrep&logoColor=white)
 ![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=trivy&logoColor=white)
 
-### Contato
+
+### Endpoints & Communication
 
 [![Email](https://img.shields.io/badge/Email-mplc%40cesar.school-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mplc@cesar.school)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-thelimacosta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thelimacosta)
@@ -87,39 +89,27 @@ Projects: 9
 
 ---
 
-### Projetos em destaque
+### Deployments & Repositories
 
-**SecOps-LAB** — pipeline DevSecOps no GitHub Actions: SAST (Semgrep), scan de imagem (Trivy), DAST (OWASP ZAP) e publicação automática no GHCR, protegendo uma API Flask.
-→ [`github.com/thelimacosta/SecOps-LAB`](https://github.com/thelimacosta/SecOps-LAB)
+**SecOps-LAB** → [`github.com/thelimacosta/SecOps-LAB`](https://github.com/thelimacosta/SecOps-LAB)
 
-**Stitch** — Página web para PMEs do setor têxtil que desejam implementar ESG em seu negócio. Feito com Django.
-→ [`github.com/LopesLuna/Projeto-2`](https://github.com/LopesLuna/Projeto-2)
+**Stitch** → [`github.com/LopesLuna/Projeto-2`](https://github.com/LopesLuna/Projeto-2)
 
-**Fuga Vulcânica** — board game físico com Arduino Mega, tema dinossauros: 4 jogadores, 30 casas com LEDs, 4 telas LCD via I2C e habilidades especiais por personagem.
-→ [`https://github.com/annabetelisboa/Fuga-vulcanica`](https://github.com/annabetelisboa/Fuga-vulcanica) · [Artigo Científico](https://www.linkedin.com/feed/update/urn:li:activity:7487575368267120640/)
+**Fuga Vulcânica** → [`https://github.com/annabetelisboa/Fuga-vulcanica`](https://github.com/annabetelisboa/Fuga-vulcanica) · [Artigo Científico](https://www.linkedin.com/feed/update/urn:li:activity:7487575368267120640/)
 
-**FitPlanner** — sistema de cadastro e planejamento de treinos em Python: planos de treino, cadastro de exercícios, controle de metas e um agente que calcula o tempo até bater a meta com base no cardio escolhido.
-→ [`github.com/thelimacosta/PROJETO-FP`](https://github.com/thelimacosta/PROJETO-FP)
+**FitPlanner** → [`github.com/thelimacosta/PROJETO-FP`](https://github.com/thelimacosta/PROJETO-FP)
 
-**DJANGO** — repositório de estudo aplicando Django na prática. (Finalizado).
-→ [`github.com/thelimacosta/DJANGO`](https://github.com/thelimacosta/DJANGO)
+**DJANGO** → [`github.com/thelimacosta/DJANGO`](https://github.com/thelimacosta/DJANGO)
 
-**Esg-Simulator** - sistema interativo para uma PME do setor têxtil. Encontra-se integrado no sistema do site Stitch.
-→ [`github.com/CorreiazinhoW/ESG-Simulator`](https://github.com/CorreiazinhoW/ESG-Simulator)
+**Esg-Simulator** → [`github.com/CorreiazinhoW/ESG-Simulator`](https://github.com/CorreiazinhoW/ESG-Simulator)
 
-**Pizzalign** - jogo de cartas (Falling Block Puzzle Game), estilo PvP, com estética de pizzaria italiana, constuído linguagem C.
-→ [`github.com/thelimacosta/pizzalign`](https://github.com/thelimacosta/pizzalign)
+**Pizzalign** → [`github.com/thelimacosta/pizzalign`](https://github.com/thelimacosta/pizzalign)
 
-**DEDUTIVO** - jogo de detetive com lógica implementada, em estilo de fliperama, feito puramente em html.
-→ [`github.com/thelimacosta/DEDUTIVO`](https://github.com/thelimacosta/DEDUTIVO)
+**DEDUTIVO** → [`github.com/thelimacosta/DEDUTIVO`](https://github.com/thelimacosta/DEDUTIVO)
 
-**ARCHV** - Plataforma de coleção estética integrada com lootbox e open-packs (Em breve).
-→ [`github.com/Digao-1234/ARCHV`](https://github.com/Digao-1234/ARCHV)
-
-
+**ARCHV** → [`github.com/Digao-1234/ARCHV`](https://github.com/Digao-1234/ARCHV)
 
 ---
-
-<div align="center">
+![Metrics](https://komarev.com/ghpvc/?username=thelimacosta&color=007acc&label=METRICS&style=for-the-badge)
 
 </div>
